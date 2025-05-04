@@ -1,1 +1,1 @@
-hello world
+Opening page
