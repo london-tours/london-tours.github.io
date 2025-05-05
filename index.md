@@ -3,8 +3,6 @@ layout: post
 title: Hello
 ---
 
-| [all my tours](tours) | [bucket list london](bucket-list) | [deep cuts](deep-cuts) | [special interest]() | [blog]()
-
 Hello, I'm Annie, a lifetime Londoner and Blue Badge[^1] tour guide. Have I introduced you to my old friend London? No? Oh well, you're in for a treat.
 
 I love this city, from its palaces to its pigeons. Want the showstoppers? Take a look at my [bucket list]() tours. Prefer the alley less travelled? Check out my [deep cuts]() for some of my favourite hidden treats.
@@ -17,5 +15,3 @@ Have a passion of your own you'd like to explore? Let me design your day.  No th
 
 ![alt text](<Annie and Dylan.jpeg>)
 
-
-| [all my tours](tours) | [bucket list london](bucket-list) | [deep cuts](deep-cuts) | [special interest]() | [blog]()
