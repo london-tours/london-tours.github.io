@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Hello
@@ -12,7 +11,7 @@ I love this city, from its palaces to its pigeons. Want the showstoppers? Take a
 
 Have a passion of your own you'd like to explore? Let me design your day.  No theme is too niche, just [drop me an email]() to chat through your requirements. You can have a browse of some of my past custom itineraries, from Swiftie pilgrimages to the authentic [football]() matchday, on my [special interest]() page.
 
-[^1:] It's the professional qualification for tour guiding here. It takes eighteen months, twelve exams and a LOT of walking to complete. Yes, we do get a real metal badge. It's my most prized posession. That or my beefeater rubber duck, Dylan.
+[^1:] It's the professional qualification for tour guiding here. It takes eighteen months, twelve exams and a LOT of walking to complete. Yes, we do get a real metal badge. It's my most prized possession. That or my beefeater rubber duck, Dylan.
 
 [^2:] For my American friends, I mean soccer. Which perhaps I should adopt given it really is its OG name (If you're really interested, you can check out my blog post [here]()).
 
